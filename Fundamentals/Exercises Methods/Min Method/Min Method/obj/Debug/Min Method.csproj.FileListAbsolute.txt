@@ -1,0 +1,6 @@
+C:\Users\Sony\Desktop\softuni\TechModule\Fundamentals\Methods\Min Method\Min Method\bin\Debug\Min Method.exe.config
+C:\Users\Sony\Desktop\softuni\TechModule\Fundamentals\Methods\Min Method\Min Method\bin\Debug\Min Method.exe
+C:\Users\Sony\Desktop\softuni\TechModule\Fundamentals\Methods\Min Method\Min Method\bin\Debug\Min Method.pdb
+C:\Users\Sony\Desktop\softuni\TechModule\Fundamentals\Methods\Min Method\Min Method\obj\Debug\Min Method.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Desktop\softuni\TechModule\Fundamentals\Methods\Min Method\Min Method\obj\Debug\Min Method.exe
+C:\Users\Sony\Desktop\softuni\TechModule\Fundamentals\Methods\Min Method\Min Method\obj\Debug\Min Method.pdb

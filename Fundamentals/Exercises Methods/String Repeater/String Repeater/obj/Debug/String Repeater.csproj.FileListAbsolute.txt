@@ -1,0 +1,5 @@
+C:\Users\Sony\Desktop\softuni\TechModule\Fundamentals\Methods\String Repeater\String Repeater\bin\Debug\String Repeater.exe.config
+C:\Users\Sony\Desktop\softuni\TechModule\Fundamentals\Methods\String Repeater\String Repeater\bin\Debug\String Repeater.exe
+C:\Users\Sony\Desktop\softuni\TechModule\Fundamentals\Methods\String Repeater\String Repeater\bin\Debug\String Repeater.pdb
+C:\Users\Sony\Desktop\softuni\TechModule\Fundamentals\Methods\String Repeater\String Repeater\obj\Debug\String Repeater.exe
+C:\Users\Sony\Desktop\softuni\TechModule\Fundamentals\Methods\String Repeater\String Repeater\obj\Debug\String Repeater.pdb
