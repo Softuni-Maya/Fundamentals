@@ -1,6 +1,0 @@
-C:\Users\Sony\Desktop\softuni\TechModule\Fundamentals\Methods\NthDigit\NthDigit\bin\Debug\NthDigit.exe.config
-C:\Users\Sony\Desktop\softuni\TechModule\Fundamentals\Methods\NthDigit\NthDigit\bin\Debug\NthDigit.exe
-C:\Users\Sony\Desktop\softuni\TechModule\Fundamentals\Methods\NthDigit\NthDigit\bin\Debug\NthDigit.pdb
-C:\Users\Sony\Desktop\softuni\TechModule\Fundamentals\Methods\NthDigit\NthDigit\obj\Debug\NthDigit.csprojResolveAssemblyReference.cache
-C:\Users\Sony\Desktop\softuni\TechModule\Fundamentals\Methods\NthDigit\NthDigit\obj\Debug\NthDigit.exe
-C:\Users\Sony\Desktop\softuni\TechModule\Fundamentals\Methods\NthDigit\NthDigit\obj\Debug\NthDigit.pdb
