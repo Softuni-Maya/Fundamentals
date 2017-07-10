@@ -10,24 +10,25 @@ namespace EqualSequenceOfElements
     {
         static void Main(string[] args)
         {
-            int[] array = Console.ReadLine().Split().Select(int.Parse).ToArray();
+            double[] numbers = Console.ReadLine().Split(' ').Select(double.Parse).ToArray();
+            bool equally = true;
 
-
-
-            for (int i = 0; i < array.Length; i++)
+            for (int i = 0; i < numbers.Length - 1; i++)
             {
-                if (array[i] == i)
-
-                    Console.WriteLine("Yes");
-                if (array[i] != i)
-                    Console.WriteLine("No");
+                if (numbers[i] != numbers[i + 1])
+                {
+                    equally = false;
+                }
 
             }
-             
-            
-               
-            
-            
+            if (equally)
+            {
+                Console.WriteLine("Yes");
+            }
+            else
+            {
+                Console.WriteLine("No");
+            }
         }
     }
 }
