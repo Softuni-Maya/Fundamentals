@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{5788350C-4F70-4DBB-B6B2-A0340A31ED3C}</ProjectGuid>
+    <ProjectGuid>{A0E7680C-D912-42AD-BEBD-3DA9F6D6F1E4}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>TrackDownloader</RootNamespace>
-    <AssemblyName>TrackDownloader</AssemblyName>
+    <RootNamespace>Count_of_Capital_Letters</RootNamespace>
+    <AssemblyName>Count of Capital Letters</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

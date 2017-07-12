@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("TrackDownloader")]
+[assembly: AssemblyTitle("Remove Negatives and Reverse")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("TrackDownloader")]
+[assembly: AssemblyProduct("Remove Negatives and Reverse")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("5788350c-4f70-4dbb-b6b2-a0340a31ed3c")]
+[assembly: Guid("ef0ab34c-e51d-4b3c-bd6f-7124da6087cc")]
 
 // Version information for an assembly consists of the following four values:
 //
